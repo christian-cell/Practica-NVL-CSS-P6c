@@ -1,0 +1,46 @@
+#principal{
+
+    text-align: center;
+    background: #f8f99a;
+
+}
+
+
+.encabezados{
+
+    border:1px solid black;
+
+    width:500px;
+    margin:30px auto;
+    
+    color: chocolate;
+}
+
+
+#navegacion{
+
+    border: 1px solid#00ff00;
+    width:700px;
+    margin:30px auto;
+    
+}
+
+
+[datetime]{color:blue;}
+
+[data-pimienta]{color:red;}
+
+[data-cantidad="600gr"]{color:green;}
+
+[data-cantidad^="300"]{color:purple;}
+
+[data-cantidad|="1 unit"] {color:#cb3365;}
+
+[data-cantidad$="gajos"] {background:black ;color:white}
+
+#formulario{background:#f9ac26}
+
+
+
+
+
